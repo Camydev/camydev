@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Camydev&theme=transparent&border_radius=50&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!--
 **Camydev/camydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
